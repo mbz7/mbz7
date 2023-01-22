@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [www.medium.com/@bracken.myles](www.medium.com/@bracken.myles)
 
-- 📫 How to reach me **bracken.myles@gmail.com**
+<!-- - 📫 How to reach me **bracken.myles@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
